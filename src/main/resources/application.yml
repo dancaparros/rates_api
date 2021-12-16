@@ -1,0 +1,7 @@
+spring:
+  main:
+    banner-mode: console
+
+framework:
+  ratesapi-url: http://api.ratesapi.io
+  console-request-logging: false
